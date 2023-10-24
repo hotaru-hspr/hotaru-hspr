@@ -1,6 +1,6 @@
-- 👋 Hi, I'm hotaru. ほたる　です。
-- 🖥️ Graphic designer switching to UI/UX.
-- 👀 I like computers and games. コンピューター　と　ゲーム　が　すきです。
+- 👋 Hi, I'm hotaru.
+- 🖥️ Graphic designer learning UI/UX.
+- 👀 I like computers, games and anything related.
 - 🌱 I’m currently learning game development primarily and a little bit of frontend for fun.
 - From 🇮🇳.
 
