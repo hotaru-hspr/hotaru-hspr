@@ -1,5 +1,5 @@
 - 👋 Hi, I'm hotaru.
-- 🖥️ Graphic designer learning UI/UX.
+- 🖥️ Graphics designer learning UI/UX.
 - 👀 I like computers, games and anything related.
 - 🌱 Currently learning game development primarily and a little bit of frontend for fun.
 - From 🇮🇳.
