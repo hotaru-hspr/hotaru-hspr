@@ -17,5 +17,5 @@ I'm oscillating between a few projects, which you could find below. I am working
 ```
 "Maybe I want someone to remember me,
          even for a little."
-                            - Himmel the Hero (Frieren: Beyond Journey's End)
+- Himmel the Hero (Frieren: Beyond Journey's End)
 ```
