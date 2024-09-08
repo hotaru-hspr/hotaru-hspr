@@ -1,5 +1,5 @@
-🏫 Undergrad Student, aspiring Game Developer
+🎨 Fullstack Developer, UI/UX Designer, Art & Design enjoyer and aspiring Game Developer
 
-🎨 Art & Design enjoyer, Frontend Developer and UI/UX Designer
+🏫 Sophomore CS Student
 
-📚 I do random projects when I feel like it, check out some of my projects below...
+📚 Check out some of my projects below, or [visit my portfolio](https://hotaru-hspr.github.io)
