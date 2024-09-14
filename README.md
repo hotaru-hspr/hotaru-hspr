@@ -1,4 +1,4 @@
-🎨 Fullstack Developer, UI/UX Designer, Art & Design enjoyer and aspiring Game Developer
+🎨 Fullstack Developer, UI/UX Designer, Art & Design enjoyer and aspiring Game Designer
 
 🏫 Sophomore CS Student
 
